@@ -1,5 +1,2 @@
 python-telegram-bot==20.8
-pandas<2.0.0
-numpy<2.0.0
 requests
-git+https://github.com/twopirllc/pandas-ta.git@main
